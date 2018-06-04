@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{7EC76861-BFE9-4EDD-B17E-AA4EDA548AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.lib", "Admin.lib\Admin.lib.csproj", "{9A30DB9C-DC08-47DB-8888-1D3D9583CE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC76861-BFE9-4EDD-B17E-AA4EDA548AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC76861-BFE9-4EDD-B17E-AA4EDA548AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC76861-BFE9-4EDD-B17E-AA4EDA548AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC76861-BFE9-4EDD-B17E-AA4EDA548AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A30DB9C-DC08-47DB-8888-1D3D9583CE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A30DB9C-DC08-47DB-8888-1D3D9583CE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A30DB9C-DC08-47DB-8888-1D3D9583CE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A30DB9C-DC08-47DB-8888-1D3D9583CE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
